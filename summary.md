@@ -2,7 +2,7 @@
 
 目前使用的prompt
     依旧以单目相片为输入
-    []
+    [prompt](./prompts.md)
 
 效果
     
